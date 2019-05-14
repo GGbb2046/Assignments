@@ -16,14 +16,14 @@ There are four parts to this assignment. Part 1 through 3 are worth 10 points ea
   *  Your major/area of study (`echo "Area of study' >> README.md`)
 * View the file to make sure it looks OK ('cat README.md`)
 * Now, you will add the README.md file to you repo's staging area (`git add README.md`)
-* Then commit the change, (`git commit -m "my first commit'`)
+* Then commit the change, (`git commit -m "my first commit"`)
 * And finally, push this change to your github repo (`git push origin master`)
 
 ## Part03: Create a public repo
 
 NOTE: When using an unpaid GitHub account, all the repos you create are public. For this class, I've created a number of private repos - one for each student. Private repositories mean that only those that are invited/added to the repository can access it's contents (normally, you need to pay for such a service from GitHub). This private repo will give you the peace of mind to know that any of the mistakes, bad code, errors, etc. that you make will not be available to the public.
 
-But, for this exercise, you will creat your own public repo.
+But, for this exercise, you will create your own public repo.
 
 * Login into your GitHub account.
 * On GitHub, create a new repository called PublicRepo (DO NOT select "create initial README.md file"!).
@@ -32,13 +32,6 @@ But, for this exercise, you will creat your own public repo.
 * Copy the file you created in Exercise01-Part2 into this repo (the README.md about you).
 * Now stage this file, commit the change (with descriptive message), and push the update to GitHub.
 * Login to your github account, find your PublicRepo and verify that the changes have been made.
-
-
-## Part04 - Create a Class Journal
-
-Add an entry to your Journal folder found in your private repo (ST???). Write a new file for each journal entry. The naming should be C1_Journal.md, C2_Journal.md, etc. Do this using the GitHub web interface. 
-
-Each journal entry is your reflection on the material that was covered in the course. Reflection, especially so soon after you've been exposed to the material, will help in your retention and learning processes. 
 
 
 ### Parting notes:
