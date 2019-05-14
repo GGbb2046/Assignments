@@ -28,5 +28,5 @@ Search for and find an interesting repo that you can fork/copy. Using VSCode, cr
 
 ## Part03
 
-Update the README.md file found in the root of your ST?? repo to use markdown. Inside this file, you must include your First and Last name, Major, and something about you (like an about me page)
+Update the README.md file found in the root of your ST?? repo to use markdown. Inside this file, you must include your First and Last name, Major, something about you (like an about me page), and a picture.
 
