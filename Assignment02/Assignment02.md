@@ -3,7 +3,7 @@
 ## Part01
 
 You will create and run your first python program using vscode.
-
+ 
 By convention/tradition the first program a new programmer writes is a "hello world" program. This is about as simple a program we can write. It's job is to run, print the phrase "Hello World" to the screen, and then end. 
 
 In some languages (i.e. Java) this can involve writing many lines of code. In Python, it takes only one line of code (containing the phrase `print("Hello World)`)
