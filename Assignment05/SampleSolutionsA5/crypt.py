@@ -82,7 +82,7 @@ elif len(sys.argv)==5 and sys.argv[1]=='-d': # if there are 3 args, this can onl
         cipher_text = fin.read()
     # decrypt the data from the input file
     plain_text = decrypt(decrypt_key, cipher_text)
-    # store the encrypted data into the output file
+    # store the decrypted data into the output file
     with open(sys.argv[4], "w") as fout:
         fout.write(plain_text)
 else:
